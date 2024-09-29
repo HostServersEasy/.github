@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+> Welcome to HostBase!
+We are simplifying hosting here. Enjoy:
+- **Free servers**
+- **Free discord bot hosting**
+- **Free static website hosting**
+- Our static website API with NodeJS
+- Our static website API with Python
+- Great uptime
+And more to come.
