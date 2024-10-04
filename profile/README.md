@@ -19,4 +19,7 @@ We are simplifying hosting here. Enjoy:
 - Our static website API with NodeJS
 - Our static website API with Python
 - Great uptime
+
 And more to come.
+
+**This organization contains all the repos that make us run. Some may not be open source!**
