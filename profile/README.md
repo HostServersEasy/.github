@@ -16,8 +16,8 @@ We are simplifying hosting here. Enjoy:
 - **Free servers**
 - **Free discord bot hosting**
 - **Free website hosting**
-- Free Java servers
-- Great uptime
+- **Free Java servers**
+- **Great uptime**
 
 And more to come.
 
