@@ -20,5 +20,6 @@ We are simplifying hosting here. Enjoy:
 - **Great uptime**
 
 And more to come.
+Visit us here: https://hbserver.rf.gd
 
 **This organization contains all the repos that make us run. Some may not be open source!**
