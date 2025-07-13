@@ -20,8 +20,8 @@ We are simplifying hosting here. Enjoy:
 - **Great uptime**
 
 And more to come.
-Visit us here: https://competing-catfish-5202.dataplicity.io
+Visit us here: https://hostbase.me
 
-If you want to check out our HostBase Tools AI project, you can go to it here: https://competing-catfish-5202.dataplicity.io/ai (you'll need to be in our Discord server for this to work)
+If you want to check out our HostBase Tools AI project, you can go to it here: https://ai.hostbase.me (you'll need to be in our Discord server for this to work)
 
 **This organization contains all the repos that make us run. Some may not be open source!**
