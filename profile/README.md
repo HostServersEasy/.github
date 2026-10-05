@@ -25,3 +25,5 @@ Visit us here: https://hostbase.me
 If you want to check out our HostBase Tools AI project, you can go to it here: https://ai.hostbase.me (you'll need to be in our Discord server for this to work)
 
 **This organization contains all the repos that make us run. Some may not be open source!**
+
+# THIS ORGANIZATION HAS SHUT DOWN, IF YOU WOULD LIKE TO REQUEST AN EXPORT, EMAIL: data@erikku.page
